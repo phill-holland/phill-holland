@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phill-holland
 - 👀 I’m interested in C#, Dotnet Core, C++, Containers, Security
 - 🌱 I’m currently learning OneApi, Cellular Automa, Genetic Algorithms, Vulkan
-- 💞️ I’m looking to collaborate on [taking over the world]
+- 💞️ I have an experimental machine learning system that needs people with GPU's and C++ experience
 - 📫 How to reach me [if you book me, I will come]
 
 <!---
